@@ -1,6 +1,6 @@
 # Tugas 1 Praktik PHP Dasar: Variabel, Operator, dan Kondisi
 
-Repositori ini berisi tugas mata kuliah **Praktik Pemrograman Web (PHP Dasar)** yang mencakup penggunaan **variabel, operator, dan kondisi** dalam PHP.  
+Repositori ini berisi tugas mata kuliah **Praktik Pemrograman Internet (PHP Dasar)** yang mencakup penggunaan **variabel, operator, dan kondisi** dalam PHP.  
 Project dibuat menggunakan **PHP murni (tanpa framework)** dengan tampilan sederhana berbasis HTML & CSS.
 
 ## 📌 Fitur yang Dibuat
