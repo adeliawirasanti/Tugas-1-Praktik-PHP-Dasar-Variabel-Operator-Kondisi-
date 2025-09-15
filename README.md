@@ -146,3 +146,22 @@ Form untuk mengisi nama, umur, jenis kelamin, dan alamat dengan validasi input.
 Hasil dari form biodata
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/68438c73-088c-4814-bf63-72341e5a6781" />
 
+---
+
+## 📖 Penutup
+Project ini dibuat untuk memenuhi **Tugas 1 Praktik PHP Dasar** dengan tujuan melatih penggunaan **variabel, operator, dan kondisi** dalam bahasa pemrograman PHP.  
+
+Melalui project ini, diharapkan pemahaman dasar mengenai:
+- Pengolahan input dari form,
+- Validasi data,
+- Operasi perhitungan sederhana,
+- Dan penerapan kondisi dalam logika program  
+ 
+Terima kasih telah membaca dokumentasi ini 🙌  
+Jika ada saran atau masukan, sangat terbuka untuk pengembangan lebih lanjut.  
+
+---
+
+## 👩‍💻 Author
+**Adelia Wirasanti**  
+Tugas Praktik Pemrograman Web – PHP Dasar
